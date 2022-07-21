@@ -54,6 +54,13 @@ li {
 	min-height: 65vh;
 	color: #ffffff;
 }
+.list-btn {
+	background-color: #00ab8e;
+	border-radius: 20px;
+	width: 8rem;
+	text-align: center;
+	padding: 0.4rem;
+}
 .header {
 	display: flex;
 	flex-direction: column;
